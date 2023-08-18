@@ -48,26 +48,29 @@ Human Interface Design concepts in a practical and interactive way.
 <p>Screen Short</p>
 <p float="left">
   
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d1.jpg"  width="500">
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d1.jpg"  width="100">
 
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d2.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d3.jpg"  width="500">
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d4.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d5.jpg"  width="500">
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d6.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d7.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d8.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l1.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l2.jpg"  width="500" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d2.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d3.jpg"  width="100">
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d4.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d5.jpg"  width="100">
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d6.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d7.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d8.jpg"  width="100" >
+</p>
 
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l3.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l4.jpg"  width="500" >
+<p float="left">
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l1.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l2.jpg"  width="100" >
 
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l5.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l6.jpg"  width="500" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l3.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l4.jpg"  width="100" >
 
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l7.jpg"  width="500" >
-<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l8.jpg"  width="500" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l5.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l6.jpg"  width="100" >
+
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l7.jpg"  width="100" >
+<img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/l8.jpg"  width="100" >
 
 
 </p>
