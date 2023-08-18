@@ -76,9 +76,11 @@ Human Interface Design concepts in a practical and interactive way.
 
 </p>
 <h1>Video</h1>
-<p>
+
 <video width="320" height="240" controls>
   <source src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/demo.mp4" type="video/mp4">
+  
+  <source src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/demo.mp4" type="video/ogg">
 </video>
-</p>
+
   
