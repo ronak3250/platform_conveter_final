@@ -45,7 +45,7 @@ Human Interface Design concepts in a practical and interactive way.
 - Flutter framework with MVC and Provider architecure
 - Local storage: shared_preferences package
 </p>
-<p>Screen Short</p>
+#Screen Short
 <p float="left">
   
 <img src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/d1.jpg"  width="100">
@@ -75,7 +75,7 @@ Human Interface Design concepts in a practical and interactive way.
 
 
 </p>
-
+#Video
 <p>
 <video width="320" height="240" controls>
   <source src="https://github.com/ronak3250/platform_conveter_final/blob/main/platform_converter/output/demo.mp4" type="video/mp4">
